@@ -1,0 +1,9 @@
+li a {
+	color: green;
+}
+
+body {
+	position: relative;
+	background: white url("images/laserCat.jpg") no-repeat; 
+
+
